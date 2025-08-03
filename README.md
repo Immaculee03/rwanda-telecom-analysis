@@ -7,13 +7,15 @@ This project explores the trends in internet usage and mobile cellular subscript
 The project combines **Python-based data analysis** with a **Power BI dashboard** to produce an insightful, interactive, and practical report useful for decision-makers and digital development advocates.
 
 ---
-## 2. Instructions
+## 2. Instructions:
+
 ✓ Choose a real-world problem in one or more sectors (e.g., Health, Agriculture,
 Education, etc.)
 ✓ Find or use an existing public dataset
 ✓ Conduct data preprocessing, exploratory analysis, and basic modeling in Python
 ✓ Create a Power BI dashboard that explains findings clearly
 ✓ Present your work in a structured GitHub repository and PowerPoint file
+
 ---
 
 ## 3. Problem Statement

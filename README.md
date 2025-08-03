@@ -51,6 +51,7 @@ Despite significant growth in mobile and internet access in Rwanda, it's importa
 - Forecasting with Linear Regression
 - Exporting clean data for visualization
   <img width="430" height="393" alt="image" src="https://github.com/user-attachments/assets/3e03cb79-7980-414e-9633-f36405dd453a" /> <img width="905" height="708" alt="image" src="https://github.com/user-attachments/assets/7b4b5c78-5268-465d-a535-b4e3008bf34a" /> <img width="620" height="427" alt="image" src="https://github.com/user-attachments/assets/b3274c12-239d-475a-aa7b-7dd7e47f1f10" /> <img width="777" height="613" alt="image" src="https://github.com/user-attachments/assets/f95d6c30-09fb-4bc7-b9f5-191e6a5d5b5f" /> <img width="644" height="685" alt="image" src="https://github.com/user-attachments/assets/568b3118-c47c-4cfb-bf35-7fc689921a1e" />
+<img width="673" height="626" alt="image" src="https://github.com/user-attachments/assets/81576a74-7bdf-4ef7-8ae4-e099ddbb2ea1" />
 
 
 

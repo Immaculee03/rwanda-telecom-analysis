@@ -50,6 +50,12 @@ Despite significant growth in mobile and internet access in Rwanda, it's importa
 - Scaling and visualizing trends
 - Forecasting with Linear Regression
 - Exporting clean data for visualization
+  <img width="430" height="393" alt="image" src="https://github.com/user-attachments/assets/3e03cb79-7980-414e-9633-f36405dd453a" /> <img width="905" height="708" alt="image" src="https://github.com/user-attachments/assets/7b4b5c78-5268-465d-a535-b4e3008bf34a" /> <img width="620" height="427" alt="image" src="https://github.com/user-attachments/assets/b3274c12-239d-475a-aa7b-7dd7e47f1f10" /> <img width="777" height="613" alt="image" src="https://github.com/user-attachments/assets/f95d6c30-09fb-4bc7-b9f5-191e6a5d5b5f" /> <img width="644" height="685" alt="image" src="https://github.com/user-attachments/assets/568b3118-c47c-4cfb-bf35-7fc689921a1e" />
+
+
+
+
+
 
 ### Power BI Dashboard (in `powerbi/` folder)
 
@@ -57,6 +63,9 @@ Despite significant growth in mobile and internet access in Rwanda, it's importa
 - Trend lines and summary statistics
 - Interactive filters (slicers)
 - Forecast extension to 2030 using Power BI tools
+
+<img width="879" height="306" alt="image" src="https://github.com/user-attachments/assets/1b57cef4-4629-4c04-b578-f1dfe6a89764" /> <img width="1013" height="585" alt="image" src="https://github.com/user-attachments/assets/e0ed4ee1-9844-454b-b00c-9a22ee81d605" /> <img width="987" height="493" alt="image" src="https://github.com/user-attachments/assets/6ac32889-8fbe-4d7b-a751-58218a8a2fc2" />
+
 
 
 ---

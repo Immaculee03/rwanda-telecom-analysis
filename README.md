@@ -9,12 +9,12 @@ The project combines **Python-based data analysis** with a **Power BI dashboard*
 ---
 ## 2. Instructions:
 
-✓ Choose a real-world problem in one or more sectors (e.g., Health, Agriculture,
+-Choose a real-world problem in one or more sectors (e.g., Health, Agriculture,
 Education, etc.)
-✓ Find or use an existing public dataset
-✓ Conduct data preprocessing, exploratory analysis, and basic modeling in Python
-✓ Create a Power BI dashboard that explains findings clearly
-✓ Present your work in a structured GitHub repository and PowerPoint file
+- Find or use an existing public dataset
+- Conduct data preprocessing, exploratory analysis, and basic modeling in Python
+- Create a Power BI dashboard that explains findings clearly
+- Present your work in a structured GitHub repository and PowerPoint file
 
 ---
 
@@ -65,10 +65,10 @@ Despite significant growth in mobile and internet access in Rwanda, it's importa
 
 Your repository should follow this layout:
 
-- `data/` – Raw CSV files downloaded from World Bank
+- `images/` – Screenshots from notebook and dashboard
+-  `data/` – Raw CSV files downloaded from World Bank
 - `notebooks/` – Python Jupyter Notebook used for data processing and analysis
 - `powerbi/` – Power BI `.pbix` file for interactive dashboard
-- `images/` – Screenshots from notebook and dashboard
 - `README.md` – Project documentation and instructions
 
 ---

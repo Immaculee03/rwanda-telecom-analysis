@@ -102,9 +102,8 @@ Your repository should follow this layout:
 
 ##  Author
 
-**Name:** Iradukunda Immaculee  
+**Name:** Iradukunda Immaculee  27378 
 **Project Type:** Capstone Project (Python & Power BI)  
-**Id: ** 27378
 **GitHub:** [https://github.com/immaculee03](https://github.com/immaculee03)
 
 ---

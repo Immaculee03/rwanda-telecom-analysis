@@ -103,7 +103,6 @@ Layout:
 
 ## 9. Future Work
 
-- Apply advanced forecasting models like ARIMA or Prophet for more accurate predictions
 - Compare Rwanda’s trends with other East African countries
 - Integrate additional data such as GDP, education, or urbanization rates
 - Build a live dashboard that connects to updated real-time data sources

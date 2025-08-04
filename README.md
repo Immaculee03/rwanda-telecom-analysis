@@ -9,7 +9,7 @@ The project combines **Python-based data analysis** with a **Power BI dashboard*
 ---
 ## 2. Instructions:
 
--Choose a real-world problem in one or more sectors (e.g., Health, Agriculture,
+Choose a real-world problem in one or more sectors (e.g., Health, Agriculture,
 Education, etc.)
 - Find or use an existing public dataset
 - Conduct data preprocessing, exploratory analysis, and basic modeling in Python

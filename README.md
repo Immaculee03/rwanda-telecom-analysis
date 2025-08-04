@@ -73,7 +73,7 @@ Despite significant growth in mobile and internet access in Rwanda, it's importa
 
 ## 6. Project Structure
 
-Your repository should follow this layout:
+Layout:
 
 - `images/` – Screenshots from notebook and dashboard
 -  `data/` – Raw CSV files downloaded from World Bank
